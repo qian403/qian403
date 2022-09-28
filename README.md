@@ -10,8 +10,8 @@
 
 ###### ~~抓還看~~
 
-[這是我的IG~~歡迎追蹤~~](https://www.instagram.com/jiaqian40/)
-**我的Discord:jiaqian#3004**
+[這是我的IG~~歡迎追蹤~~](https://www.instagram.com/jiaqian40/)<br>
+**我的Discord:jiaqian#3004**<br>
 [我的github](https://github.com/jiaqian1130)  
 
 [下一張test頁面](test.md)

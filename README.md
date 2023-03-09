@@ -13,7 +13,7 @@
 [這是我的IG~~歡迎追蹤~~](https://www.instagram.com/jiaqian40/)<br>
 **我的Discord:jiaqian#3004**<br>
 [我的github](https://github.com/jiaqian1130)  
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5cg2cci5rdkvj4cuzrfnhnzxa)
 
 <h1 align="center">嗨👋，我是qian</h1>
 <h3 align="center">哈囉Hello World</h3>

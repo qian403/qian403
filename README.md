@@ -13,7 +13,6 @@
 [這是我的IG~~歡迎追蹤~~](https://www.instagram.com/jiaqian40/)<br>
 **我的Discord:jiaqian#3004**<br>
 [我的github](https://github.com/jiaqian1130)  
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31t5cg2cci5rdkvj4cuzrfnhnzxa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 
 <h1 align="center">嗨👋，我是qian</h1>

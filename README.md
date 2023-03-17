@@ -20,9 +20,6 @@
 
 <p align="left"> <img src="https: //komarev.com/ghpvc/?username=jiaqian1130&label=Profile%20views&color=0e75b6&style=flat" alt="jiaqian1130" /> </p>
 
-- 📝 [這是我的blog](https ://qian30.me)
-
-- ⚡ 趣事 **網路真有趣**
 
 <h3 align="left">聯繫我：</h3>
 <p align="left">

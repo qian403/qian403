@@ -14,13 +14,8 @@
 [我的github](https://github.com/qian403)  
 
 
-<h1 align="center">嗨👋，我是qian</h1>
-<h3 align="center">哈囉Hello World</h3>
-
-<p align="left"> <img src="https: //komarev.com/ghpvc/?username=jiaqian1130&label=Profile%20views&color=0e75b6&style=flat" alt="jiaqian1130" /> </p>
+<h1 align="center">嗨👋，我是謙CHIEN</h1>
 
 
-<h3 align="left">聯繫我：</h3>
-<p align="left">
-</p>
+
 

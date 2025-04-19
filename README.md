@@ -9,7 +9,7 @@
 
 ###### ~~抓還看~~
 
-[這是我的IG~~歡迎追蹤~~](https://www.instagram.com/jiaqian40/)<br>
+[這是我的IG~~歡迎追蹤~~](https://www.instagram.com/qian40_/)<br>
 [Blog](https://blog.qian30.net)
 [我的github](https://github.com/qian403)  
 

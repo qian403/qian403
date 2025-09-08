@@ -4,7 +4,6 @@
 
 
 
-![](https://github.com/jiaqian1130/jiaqian1130/blob/main/aboutme/photo/messagif.gif?raw=true)
 
 
 ###### ~~抓還看~~
@@ -15,6 +14,7 @@
 
 
 <h1 align="center">嗨👋，我是謙CHIEN</h1>
+
 
 
 
